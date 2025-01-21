@@ -19,4 +19,3 @@ provider "registry.terraform.io/hashicorp/local" {
     "zh:cc4cbcd67414fefb111c1bf7ab0bc4beb8c0b553d01719ad17de9a047adff4d1",
   ]
 }
-`
